@@ -62,7 +62,9 @@ Electroneum.com
  
  #- Do not include " stratum+ssl:// " if you receive errors, use a pool exactly like this >>> etn-eu1.nanopool.org:13433 
  
- #- run program with command    ./xmr-stak-cpu
+ #- run program with command below command.
+ 
+ #- ./xmr-stak-cpu
 
 
 
