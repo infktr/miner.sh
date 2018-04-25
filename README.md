@@ -2,9 +2,9 @@
 Electroneum Miner
 
 This shell script is a fast and easy way to mine Electroneum if your having trouble.
-Please read the comments in the script and follow the directions for a clean install.
+Please refer to the README.md and follow the directions for a clean install.
 
-#This "CPU" miner is for ubuntu and linux systems only!!!!
+#- This "CPU" miner is for ubuntu and linux systems only!!!!
 
 #- Open a terminal
 
