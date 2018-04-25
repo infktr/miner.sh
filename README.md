@@ -55,7 +55,9 @@ Electroneum.com
  #- Make sure to have a wallet address and your pool specified.
  
  #- Nanopool.org is a great pool. 
+ 
  #- Click on top Help button 
+ 
  #- Scroll down, and choose a pool but use this syntax>>> etn-au1.nanopool.org:13433
  
  #- Do not include " stratum+ssl:// " if you receive errors, use a pool exactly like this >>> etn-eu1.nanopool.org:13433 
