@@ -45,9 +45,9 @@ Please refer to the README.md and follow the directions for a clean install.
                          **************** Copy&Paste END ****************
 
 #- If your miner has errors, try setting tls settings like so below vvv
-                                      "use_tls" : true,
-                                      "tls_secure_algo" : true,
-                                      "tls_fingerprint" : "",
+                                  "use_tls" : true,
+                                  "tls_secure_algo" : true,
+                                  "tls_fingerprint" : "",
                                       
  #- If your CPU supports AESNI you can set "aes_override" to true; for faster mining. wont work if no aesni
  
