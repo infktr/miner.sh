@@ -26,6 +26,8 @@ Please read the comments in the script and follow the directions for a clean ins
 
 #-  cd bin
 
+#- ls
+
 #- Paste your config that looks like vvvv below in correspondence with the config.txt file
 #- Your Settings provided might be different, Depending on the CPU your machine has.
 
@@ -50,7 +52,9 @@ Please read the comments in the script and follow the directions for a clean ins
  
  #- Nanopool.org is a great pool. Go to help scroll down and choose a pool but use this syntax >>> etn-au1.nanopool.org:13433
  
- #- Do not include " stratum+ssl:// " if you receive errors, use a pool exactly like this etn-eu1.nanopool.org:13433 
+ #- Do not include " stratum+ssl:// " if you receive errors, use a pool exactly like this >>> etn-eu1.nanopool.org:13433 
+ 
+ #- run program with command    ./xmr-stak-cpu
 
 
 
