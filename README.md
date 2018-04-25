@@ -1,0 +1,2 @@
+# miner.sh
+Electroneum Miner
