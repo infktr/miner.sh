@@ -7,11 +7,17 @@ Please read the comments in the script and follow the directions for a clean ins
 #This "CPU" miner is for ubuntu and linux systems only!!!!
 
 #Open a terminal
+
 #- mkdir elecminer
+
 #- cd elecminer
+
 #- git clone https://github.com/infktr/miner.sh.git
+
 #- cd miner.sh
+
 #- chmod +x miner.sh
+
 #- ./miner.sh
 
 
