@@ -28,8 +28,11 @@ Please refer to the README.md and follow the directions for a clean install.
 
 #- ls
 
+#- You can use your favorite editor to edit the config.txt file
+
 #- Paste your config that looks like vvvv below in correspondence with the config.txt file
-#- Your Settings provided might be different, Depending on the CPU your machine has.
+
+#- Your Settings provided might be different, Depending on the CPU your machine has
 
                         **************** Copy&Paste BEGIN ****************
 
