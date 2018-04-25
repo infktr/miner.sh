@@ -1,5 +1,5 @@
 # miner.sh
-Electroneum Miner
+Electroneum Miner made with XMR-STAK-CPU
 
 This shell script is a fast and easy way to mine Electroneum if your having trouble.
 Please refer to the README.md and follow the directions for a clean install. Also make
