@@ -6,6 +6,8 @@ Please read the comments in the script and follow the directions for a clean ins
 
 #This "CPU" miner is for ubuntu and linux systems only!!!!
 
+#Open a terminal
+
 #Do a nano myminer.sh press enter
 
 #Feel free to copy the contents to your file by selecting all of the commands and (comments if you like)
