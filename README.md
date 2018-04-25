@@ -16,6 +16,6 @@ Please read the comments in the script and follow the directions for a clean ins
 
 #To exit nano do a ctrl-x then press y and press enter
 
-# then run chmod +x myminer.sh
+#Then run chmod +x myminer.sh
 
 #Run with ./myminer.sh
