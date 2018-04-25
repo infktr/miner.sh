@@ -44,16 +44,15 @@ Please refer to the README.md and follow the directions for a clean install.
 
                          **************** Copy&Paste END ****************
 
-#- If your miner has errors, try setting tls settings like so below vvv
-                                  "use_tls" : true,
-                                  "tls_secure_algo" : true,
-                                  "tls_fingerprint" : "",
+#- If your miner has errors, try setting  >>  "use_tls" : true,      default is set to false
+                                
                                       
- #- If your CPU supports AESNI you can set "aes_override" to true; for faster mining. wont work if no aesni
+ #- If your CPU supports AESNI you can set "aes_override" to true; for faster mining. wont work if no AESNI
  
  #- Make sure to have a wallet address and your pool specified.
  
- #- Nanopool.org is a great pool. Go to help scroll down and choose a pool but use this syntax >>> etn-au1.nanopool.org:13433
+ #- Nanopool.org is a great pool. 
+ #- Click on top Help button, scroll down, and choose a pool but use this syntax>>> etn-au1.nanopool.org:13433
  
  #- Do not include " stratum+ssl:// " if you receive errors, use a pool exactly like this >>> etn-eu1.nanopool.org:13433 
  
