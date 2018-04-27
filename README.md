@@ -7,6 +7,8 @@ sure you have an Electroneum Wallet. You can receive a wallet from the domain be
 
 Electroneum.com
 
+MAKE SURE TO STORE YOUR KEYS SAFELY!!!!
+
 #- This "CPU" miner is for ubuntu and linux systems only!!!!
 
 #- Open a terminal
